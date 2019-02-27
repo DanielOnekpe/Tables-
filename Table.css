@@ -1,0 +1,26 @@
+body {
+	background-color: lightblue;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-family: sans-serif;
+}
+
+table {
+   table-layout: fixed;
+}
+
+th, td {
+  padding: 15px;
+}
+
+th {
+  text-align: centre;
+  background-color: red;
+}
+
+td {
+	text-align: right;
+	background-color: white;
+}
